@@ -1,0 +1,6 @@
+{
+  "name": "HealthGuide AI",
+  "description": "Evidence-based health intelligence platform with interactive symptom guidance, clinical safety guardrails, and integrative Allopathic & Ayurvedic wellness analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
